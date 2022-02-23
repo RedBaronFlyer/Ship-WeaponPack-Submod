@@ -1,0 +1,21 @@
+{
+
+    "combatMedium":{
+        "swp_falcon_lions_guard_eli":10,
+		"swp_striker_xiv_ass":2,
+        "swp_striker_xiv_sta":3,
+    },
+	
+	"combatLarge": {
+		"swp_vindicator_xiv_cs":1.5,
+        "swp_vindicator_xiv_fs":1.5,
+        "swp_vindicator_xiv_sta":2,
+        "swp_vindicator_o_xiv_sta":2,
+	},
+	"combatCapital":{
+        "swp_liberator_xiv_eli":3,
+        "swp_liberator_xiv_luddic_church_sta":1.5,
+		
+    },
+
+}
